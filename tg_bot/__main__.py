@@ -22,10 +22,10 @@ hoi {}, my name is {}! if you have any questions about how to use me please give
 
 im a group manager bot maintained by  [this person](tg://user?id={}).
 
-My future updates will be put into This Channel - @MarieChechi & My Support Group @InFoTelGroup.
+My future updates will be put into This Channel - @Gamerzcafe.
 
 This is my [Website](www.gamerzcafe.in),
-you can be a Hacker too same like me..
+you can be a Hacker too same like me,Just Visit here [Click Here](www.gamerzcafe.in)..
 
 For more commands click /help...
 
